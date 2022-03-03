@@ -1,0 +1,11 @@
+.menu {
+  display: flex;
+  height: 100%;
+
+
+  &__links {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  }
+}
